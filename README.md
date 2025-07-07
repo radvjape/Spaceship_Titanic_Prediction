@@ -1,4 +1,4 @@
-# Speceship Titanic Prediction
+# Spaceship Titanic Prediction
 
 ## Introduction
 Project Summary: The Spaceship Titanic was an interstellar passenger liner carrying nearly 13 000 people to newly discovered exoplanets. During its maiden voyage in 2912, it collided with a spacetime anomaly near Alpha Centauri. While the ship remained intact, nearly half of the passengers mysteriously vanished into another dimension.
